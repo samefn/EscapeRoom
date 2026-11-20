@@ -1,0 +1,17 @@
+Night Terror Lite – free horror GUI theme for Ren'Py
+Licence for the Lite (code and art), version 1.0
+
+Night Terror Lite is free.
+
+1. You may use the Lite in any number of your own games and projects, free or
+   commercial, without credit (credit is welcome, not required).
+2. You may change everything: colours, fonts, layout, code and art.
+3. You may ship the Lite's files as part of your finished game.
+4. You may NOT sell, share or give away the Lite itself or its art as a separate
+   asset, template or GUI pack, changed or unchanged. Link to its itch.io page
+   instead.
+5. The Lite is provided "as is", without warranty of any kind.
+
+Fonts in game/gui/night_terror_lite/fonts/: Source Serif 4 and IBM Plex Mono,
+both under the SIL Open Font License 1.1; the full licence texts are in the same
+folder. The fonts may be redistributed under the OFL.
